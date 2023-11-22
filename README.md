@@ -4,7 +4,7 @@
 The Bike Sales Report aims to provide the owner with strategic insights into their customer base and sales growth strategies, utilizing the "Bike Sales Data" dataset.
 
 ## **Dataset Used:**
-The dataset utilized for this analysis is the "Bike Sales Data."
+The dataset utilized for this analysis is the <a href="https://github.com/vishaltiwari1/Bike_Sales_Dashboard/blob/main/Bike_Sales_Data.xlsx">"Bike Sales Data."</a>
 
 ## **Questions (KPIs):**
 - Distance Commute vs. Bike Purchases: Explored the relationship between distance commuted and bike purchases.
